@@ -449,8 +449,11 @@ function renderContact() {
     const contactText = document.getElementById('contact-text');
     const socialLinks = document.getElementById('social-links');
     
-    contactText.textContent = portfolioContent.basics.contactText || 
-        `Feel free to reach out to me at ${portfolioContent.basics.email || ''}.`;
+    contactText.innerHTML = `
+        ${portfolioContent.basics.contactText || ''}<br>
+        Email: ${portfolioContent.basics.email || ''}<br>
+        Phone: ${portfolioContent.basics.phone || ''}<br>
+    ` || `${portfolioContent.basics.email ? `Feel free to reach out to me at ${portfolioContent.basics.email}.` : ''}`;
     
     socialLinks.innerHTML = '';
     

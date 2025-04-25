@@ -3,15 +3,15 @@
     "name": "Keerthi Reddy Nalla",
     "label": "Computer Scinece Grad | Data Analyst & Data Science Enthusiast",
     "image": "assets/images/profile_photo.jpg",
-    "email": "keerthireddynalla@example.com",
-    "phone": "",
+    "email": "keerthireddynalla2325@gmail.com",
+    "phone": "+91 9988488432",
     "summary": "I'm Keerthi Reddy Nalla, a Btech Computer Science student at Lovely Professional University, Punjab, driven by a passion for data visualization I specialize in Data Science and Visualization. Proven ability turn raw data into clearer and actionable insights using tools python, Power BI, Tableau, and Excel. Eager to apply data visualization skills to drive informed decision-making.",
     "location": {
       "city": "",
       "countryCode": "",
       "region": ""
     },
-    "contactText": "I'm open to data science opportunities and collaborative projects. Feel free to reach out!",
+    "contactText": "I'm open to data science intership opportunities and collaborative projects. Feel free to reach out! ",
     "footerText": "© 2025 Keerthi Reddy Nalla.",
     "profiles": [
       {
@@ -23,15 +23,6 @@
         "network": "LinkedIn",
         "username": "Keerthi Reddy Nalla",
         "url": "https://www.linkedin.com/in/keerthireddy-nalla"
-      },
-      {
-        "network": "Twitter",
-        "username": "johndoe",
-        "url": "https://twitter.com/johndoe"
-      },
-      {
-        "network": "Personal Website",
-        "url": "https://johndoe.com"
       }
     ]
   },  "skills": [
