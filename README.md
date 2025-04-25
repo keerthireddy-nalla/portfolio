@@ -2,7 +2,7 @@
 
 A clean, customizable portfolio website built with vanilla HTML, CSS, and JavaScript. The site is data-driven, with all content loaded dynamically from JSON files.
 
-![Portfolio Preview](assets/images/profile_photo.jpg)
+<!-- ![Portfolio Preview](assets/images/profile_photo.jpg) -->
 
 ## Features
 
@@ -89,7 +89,7 @@ To add a new project, add an entry to the "projects" array in `content.json`:
 {
   "name": "Project Name",
   "description": "Description of the project",
-  // "image": "assets/images/project-image.jpg",
+  "image": "assets/images/project-image.jpg",
   "url": "https://link-to-live-demo.com",
   "githubUrl": "https://github.com/yourusername/project-repo",
   "keywords": ["Keyword1", "Keyword2", "Keyword3"]
