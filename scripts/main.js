@@ -284,7 +284,6 @@ function renderSkills() {
         skillEl.className = 'skill-item';
         skillEl.innerHTML = `
             <h3>${skill.name}</h3>
-            <p>${skill.level || ''}</p>
         `;
         skillsContainer.appendChild(skillEl);
     });
