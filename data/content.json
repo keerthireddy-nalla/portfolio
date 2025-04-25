@@ -1,0 +1,170 @@
+{
+  "basics": {
+    "name": "Keerthi Reddy Nalla",
+    "label": "Computer Scinece Grad | Data Analyst & Data Science Enthusiast",
+    "image": "assets/images/profile_photo.jpg",
+    "email": "keerthireddynalla@example.com",
+    "phone": "",
+    "summary": "I'm Keerthi Reddy Nalla, a Btech Computer Science student at Lovely Professional University, Punjab, driven by a passion for data visualization I specialize in Data Science and Visualization. Proven ability turn raw data into clearer and actionable insights using tools python, Power BI, Tableau, and Excel. Eager to apply data visualization skills to drive informed decision-making.",
+    "location": {
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "contactText": "I'm open to data science opportunities and collaborative projects. Feel free to reach out!",
+    "footerText": "© 2025 Keerthi Reddy Nalla.",
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "Keethi Reddy Nalla",
+        "url": "https://github.com/keerthireddy-nalla"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Keerthi Reddy Nalla",
+        "url": "https://www.linkedin.com/in/keerthireddy-nalla"
+      },
+      {
+        "network": "Twitter",
+        "username": "johndoe",
+        "url": "https://twitter.com/johndoe"
+      },
+      {
+        "network": "Personal Website",
+        "url": "https://johndoe.com"
+      }
+    ]
+  },  "skills": [
+    {
+      "name": "Python",
+      "level": "Expert"
+    },
+    {
+      "name": "SQL",
+      "level": "Advanced"
+    },
+    {
+      "name": "JavaScript",
+      "level": "Intermediate"
+    },
+    {
+      "name": "R Programming",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Data Visualization",
+      "level": "Advanced"
+    },
+    {
+      "name": "Power BI",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Tableau",
+      "level": "Intermediate"
+    }
+  ],  "projects": [
+    {
+      "name": "Guessing Game with Python",
+    "description": "Developed a Python-based number guessing game where players attempt to guess a randomly generated number. Implemented an infinite gameplay loop, allowing users to play multiple rounds while keeping track of their total guesses. Designed a scoring system that records the number of attempts per game and updates the player's final score based on correct guesses. Utilized Python’s random module to generate unpredictable numbers, ensuring a dynamic gaming experience.",
+      "image": "assets/images/guessing-game-with-python.jpg",
+      "url": "",
+      "githubUrl": "",
+      "keywords": ["Python", "Game Development", "Random Number Generation", "Scoring System"]
+    },
+    {
+      "name": "Blood Donors Website",
+    "description": "Developed a dynamic web platform to manage and connect blood donors with recipients in need. Implemented user registration and authentication, allowing individuals to sign up as blood donors and manage their profiles. Designed an intuitive search functionality, enabling users to find donors based on blood type, location, and availability. Built the website using HTML, CSS, and JavaScript, ensuring a responsive and user-friendly interface.",
+      "image": "assets/images/blood-donation.jpg",
+      "url": "",
+      "githubUrl": "",
+      "keywords": ["Web Development", "Search Functionality", "Responsive Design"]
+    },
+    {
+      "name": "FIFA 2019 World Cup Power BI Dashboard",
+    "description": "Developed a Power BI dashboard to analyze FIFA 2019 World Cup data, showcasing match results, player performance, and team statistics through dynamic visualizations and actionable insights.",
+      "image": "assets/images/powerbi-project.jpg",
+      "url": "",
+      "githubUrl": "",
+      "keywords": ["Power BI", "FIFA World Cup", "Data Analysis", "Data Visualization", "Team Statistics"]
+    },
+    {
+      "name": "COVID Data Analysis using MS Excel",
+    "description": "Analyzed COVID-19 datasets using MS Excel, employing PivotTables and charts to uncover trends, validate data accuracy, and create visual reports highlighting regional comparisons and key insights.",
+      "image": "assets/images/covid19-dashboard.jpg",
+      "url": "",
+      "githubUrl": "",
+    "keywords": ["COVID-19", "Data Analysis", "PivotTables", "Visualization"]
+    }
+  ],  "resume": {
+    "education": [
+    {
+      "institution": "Lovely Professional University",
+      "area": "Computer Science and Engineering",
+      "studyType": "Bachelor of Technology",
+      "startDate": "Aug 2022",
+      "endDate": "",
+      "description": "CGPA: 7.11"
+    },
+    {
+      "institution": "Sri Chaitanya College",
+      "area": "Intermediate",
+      "studyType": "",
+      "startDate": "Apr 2020",
+      "endDate": "Mar 2022",
+      "description": "Percentage: 95%"
+    },
+    {
+      "institution": "Siddartha High School",
+      "area": "Matriculation",
+      "studyType": "",
+      "startDate": "Apr 2019",
+      "endDate": "Mar 2020",
+      "description": "Percentage: 100%"
+    }
+    ]
+    
+  },
+  "certifications": [
+    {
+      "name": "Data Analysis with Tableau",
+      "issuer": "Coursera",
+      "issueDate": "Nov 2024",
+      "expirationDate": "",
+      "url": "https://coursera.org/share/761d7c4f36e00aa6162f1f4d2c10d72d",
+      "logo": "assets/images/data-analysis-with-tableau.jpg"
+    },
+    {
+      "name": "Excel Fundamentals for Data Analysis",
+      "issuer": "Macquarie University",
+      "issueDate": "May 2024",
+      "expirationDate": "",
+      "url": "https://coursera.org/share/618f1c388667279fb0a513ad3c7c9c4d",
+      "logo": "assets/images/excel-fundamentals-for-data-analysis.jpg"
+    },
+    {
+      "name": "Python for Data Science, AI & Development",
+      "issuer": "IBM",
+      "issueDate": "Nov 2024",
+      "expirationDate": "",
+      "url": "https://coursera.org/share/55268f02b1cafb870b65d44498f51510",
+      "logo": "assets/images/python-for-data-science-ai-development.jpg"
+    },
+    {
+      "name": "R Programming",
+      "issuer": "Johns Hopkins University",
+      "issueDate": "May 2024",
+      "expirationDate": "",
+      "url": "https://coursera.org/share/dafb23a140340bf2c0af1444b55bb32f",
+      "logo": "assets/images/r-programming.jpg"
+    },
+    {
+      "name": "GenAI for Everyone",
+      "issuer": "Fractal Analytics",
+      "issueDate": "Feb 2024",
+      "expirationDate": "",
+      "url": "https://coursera.org/share/d75cc4ada540a0a0153cdad088ff61b3",
+      "logo": "assets/images/genai-for-everyone.jpg"
+    }
+  ]
+}
