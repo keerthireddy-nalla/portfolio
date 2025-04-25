@@ -409,7 +409,8 @@ footer {
 }
 
 /* Download CV button styles */
-.download-cv-btn {
+.download-cv-btn,
+.download-video-cv-btn {
     background-color: var(--accent-color);
     color: white;
     border: none;
@@ -426,13 +427,15 @@ footer {
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
-.download-cv-btn:hover {
+.download-cv-btn:hover,
+.download-video-cv-btn:hover {
     background-color: var(--text-primary);
     transform: translateY(-2px);
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
 }
 
-.download-cv-btn i {
+.download-cv-btn i,
+.download-video-cv-btn i {
     font-size: 1.1rem;
 }
 

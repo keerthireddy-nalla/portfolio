@@ -194,7 +194,13 @@ document.getElementById('download-cv-btn').addEventListener('click', function ()
     link.click();
 });
 
-
+document.getElementById('download-video-cv-btn').addEventListener('click', function () {
+    const cvUrl = 'https://drive.google.com/file/d/1Lh8sGsLL-d1rJnAbiO8FnoBnrLE6cuM6/view?usp=drivesdk'; // Replace with the actual path to your CV file
+    const link = document.createElement('a');
+    link.href = cvUrl;
+    link.download = 'KeerthiReddyNalla_cv.mp4'; // Replace with the desired file name
+    link.click();
+});
 
 
 // Render content to the DOM
